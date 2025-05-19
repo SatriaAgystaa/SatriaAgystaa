@@ -37,13 +37,3 @@ Selain itu, saya juga bertanggung jawab dalam desain UI menggunakan **Figma**, p
 ### 📫 Cara menghubungi saya
 - Email: agystasatria@gmail.com
 - LinkedIn: [linkedin.com/in/satria-agysta](https://www.linkedin.com/in/satria-agysta-b520572a5/)
-
----
-
-## 📊 GitHub Stats
-
-![Satria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satriaagysta&show_icons=true&theme=tokyonight)
-
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriaagysta&layout=compact&theme=tokyonight)
